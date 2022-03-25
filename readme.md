@@ -1,4 +1,4 @@
-# Using Braces in Conitionals
+# Using Braces in Conditionals
 
 I got the following question from a student: "For an if statement, when do we and don’t put the brackets around the statement?"  
   
