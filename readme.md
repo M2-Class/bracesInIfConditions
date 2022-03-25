@@ -30,7 +30,7 @@ Console output:
 I need a raise!
 ```
 
-However, in my view, I think braces should be used at all times as this is more readable:
+**However, in my view, I think braces should be used at all times as this is more readable:**
 
 ```csharp
 double myPay, myBills;
